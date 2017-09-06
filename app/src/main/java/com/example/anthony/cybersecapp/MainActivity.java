@@ -30,12 +30,16 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(checkBox.isChecked()){
+                if(checkBox.isChecked() && !checkBox2.isChecked()){
                     Intent intent = new Intent(MainActivity.this, first.class);
                     startActivity(intent);
                 }
-                else if(checkBox2.isChecked()){
-                    Intent intent = new Intent(MainActivity.this, first.class);
+                else if(checkBox2.isChecked() && !checkBox.isChecked()){
+                    Intent intent = new Intent(MainActivity.this, second.class);
+                    startActivity(intent);
+                }
+                else if(checkBox.isChecked() && checkBox2.isChecked()){
+                    Intent intent = new Intent(MainActivity.this, third.class);
                     startActivity(intent);
                 }
             }
