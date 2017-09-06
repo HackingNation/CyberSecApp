@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anthony.cybersecapp.MainActivity">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="360dp"
+        android:layout_height="60dp"
+        android:text="¿Cómo puedo explotar mejor las nuevas tecnologías para nuevas oportunidades de negocio?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="261dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Cómo consigo aseguramiento sobre TI?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="140dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Considero todos los riesgos relativos a TI?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="108dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="332dp"
+        android:layout_height="44dp"
+        android:text="¿Son transparentes el esfuerzo y las inversiones totales en TI?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="172dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        android:layout_width="329dp"
+        android:layout_height="63dp"
+        android:text="¿Cómo consigo valor del uso de TI? ¿Están los usuarios finales satisfechos con la calidad del servicio de TI?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="45dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox7"
+        android:layout_width="339dp"
+        android:layout_height="45dp"
+        android:text="¿Cómo construyo y estructuro mejor mi departamento de TI?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="216dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox8"
+        android:layout_width="360dp"
+        android:layout_height="45dp"
+        android:text="¿Estoy ejecutando una operación de TI eficiente y robusta?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="321dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Está bien asegurada la información que se está procesando?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="379dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox10"
+        android:layout_width="364dp"
+        android:layout_height="62dp"
+        android:text="¿Son transparentes el esfuerzo y las inversiones totales en TI?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="423dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aceptar"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="498dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+</android.support.constraint.ConstraintLayout>
