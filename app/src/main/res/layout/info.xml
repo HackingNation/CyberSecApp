@@ -3,9 +3,38 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="INFO PAGE"
+        android:text="Esta encuesta se puede usar para establecer y priorizar metas corporativas específicas o relacionadas con TI, basadas en las necesidades de las partes interesadas las cuales pueden ser: "
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="\n\n
+    • Consejo de Administración\n
+    • Director general ejecutivo (CEO)\n
+    • Director financiero (CFO)\n
+    • Director de sistemas de información (CIO)\n
+    • Responsable de riesgos\n
+    • Ejecutivos del negocio\n
+    • Propietarios de los procesos del negocio\n
+    • Responsables del negocio\n
+    • Responsables de riesgos\n
+    • Responsables de seguridad\n
+    • Responsables del servicio\n
+    • Responsables de recursos humanos\n
+    • Auditoría interna\n
+    • Responsables de privacidad\n
+    • Usuarios de TI\n
+    • Gerentes de TI\n
+    • Etc.\n\n
+"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Info: Esta aplicacion es destinada para el uso y manejo de auditores o empresarios que desean asegurar su empresa acorde al estandar internacional iso 27001."
         />
 
 </LinearLayout>
