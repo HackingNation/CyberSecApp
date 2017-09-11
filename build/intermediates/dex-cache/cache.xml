@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/8263846f9e4465d0a2d945266f7aa28e2c78e76a/output/jars/classes.jar"
+        jar="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3b066f3aaf7d85f5f502b8c750f3b95f9c9a52d/classes.dex" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab5fdfdf4bbc74ef379d10b5fe97c48afafefc5a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -16,116 +16,8 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="b7fa87fab28b16143719a1b7af45e56732c7a848">
+        sha1="c221f133f5dfec3dd58fbfacd4d4a0881ce0e296">
         <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_925f6da0ec3412b9bd8e7a7dc1e040cd15d5e032/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/041f67bd642a5c817439f8ab1cf46b44f9d9c088/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25e626a1aab5880ca2c7a664fbfe3d454c6aa497/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/26aaa52fcf2e63d8aab5c5f43333a7d0a2f7ca3c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90950801d1f92f92f97ab0cf1db91c1cf907e488/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/121e279e31e6cd41e39171e08fa86c5b3dcde5d5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f59bd9e03bcee87e5f4365d265fb0a0819121050/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/613b934c91308ab43aa339d80e14201563fbc52a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19275506cf6b6efb001a127236af5475f31f7f09/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ed953c65b56b5cfce1cb9bd20b11d8843f9c26bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/7c5ffaca080d8f5fac289b1f686adefe58494042/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5f54acaf20d94144b06b10301e56fd06deb7ada/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_4285c379defe5fd322870f1a107786d46a1f73fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/eff28f561147eb6ecc1f2d15c2fe16eca95b9586/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_077738bec822512a3ed036ece70fe6c101b2c794/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/8d83fbb741e7f5ea5283feb8854a51a0f17d3cf0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75555fbd85c779048e251d6dc9cba75abeb1d0d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/763848b8662eda4aae131def0e1d448365f3cf56/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71fc34be492ab6a08e642134f580f3a308f0d672/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/.android/build-cache/0b9556651ab98eacad53e2a7763c7fb5d67ce26f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_680028d7b50f7c25205796b75cc16099af8e872a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Israel/AndroidStudioProjects/CyberSecApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ab5fdfdf4bbc74ef379d10b5fe97c48afafefc5a/classes.dex" />
     </item>
 
 </items>

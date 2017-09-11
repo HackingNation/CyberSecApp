@@ -41,15 +41,15 @@
         android:layout_height="0dp"
         android:layout_weight="0.8">
         <LinearLayout
-            android:layout_width="368dp"
-            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical"
             tools:layout_editor_absoluteY="0dp"
             tools:layout_editor_absoluteX="0dp">
 
             <CheckBox
                 android:id="@+id/checkBox"
-                android:layout_width="360dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="¿Cómo se consigue valor mediante el uso de TI? ¿ Está el usuario final satisfecho con la calidad del servicio de TI?"
                 tools:layout_editor_absoluteY="0dp"
@@ -97,8 +97,8 @@
 
             <CheckBox
                 android:id="@+id/checkBox7"
-                android:layout_width="339dp"
-                android:layout_height="45dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:text="¿Cómo construyo y estructuro mejor mi departamento de TI?"
                 tools:layout_editor_absoluteY="0dp"
                 tools:layout_editor_absoluteX="0dp" />

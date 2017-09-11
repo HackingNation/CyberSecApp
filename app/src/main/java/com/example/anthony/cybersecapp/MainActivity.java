@@ -427,14 +427,11 @@ public class MainActivity extends AppCompatActivity {
         try {
             JSONObject obj = new JSONObject(loadJSONFromAsset());
             List<String> allNames = new ArrayList<String>();
-            int length = obj.length();
-            for(int j = 1; j <= obj.length(); j++){
-                JSONArray q1 = obj.getJSONArray("q"+j);
-                for(int i = 0; i < q1.length(); i++) {
-                    JSONObject actor = q1.getJSONObject(i);
-                    String name = actor.getString("question");
-                    allNames.add(name);
-                }
+            JSONArray q1 = obj.getJSONArray("preguntas");
+            JSONObject pregunta = q1.getJSONObject(0);
+            for(int j = 1; j <= pregunta.length(); j++){
+                String stringPregunta = pregunta.getString("question"+j);
+                allNames.add(stringPregunta);
             }
 
             checkBox.setText(allNames.get(0));

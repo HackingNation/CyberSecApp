@@ -64,7 +64,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Regresar"
+        android:text="Aceptar"
         android:layout_marginStart="45dp"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginEnd="45dp"

@@ -1,201 +1,269 @@
 {
   "q1": [
     {
-    "question":"¿Cómo se consigue valor mediante el uso de TI? ¿ Está el usuario final satisfecho con la calidad del servicio de TI?",
-    "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-    "a2":"Cartera de productos y servicios competitivos",
-    "a3":"Cultura de servicio orientada al cliente",
-    "a4":"Continuidad y disponibilidad del servicio de negocio",
-    "a5":"Programas gestionados de cambio en el negocio",
-    "a6":"Personas preparadas y motivadas",
-    "a7":"Cultura de innovación del producto y del negocio"
+      "question": "¿Cómo se consigue valor mediante el uso de TI? ¿ Está el usuario final satisfecho con la calidad del servicio de TI?",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Cartera de productos y servicios competitivos",
+      "a3": "Cultura de servicio orientada al cliente",
+      "a4": "Continuidad y disponibilidad del servicio de negocio",
+      "a5": "Programas gestionados de cambio en el negocio",
+      "a6": "Personas preparadas y motivadas",
+      "a7": "Cultura de innovación del producto y del negocio"
     }
   ],
   "q2": [
     {
-      "question":"¿Cómo se gestiona el rendimiento de TI?",
-      "a1":"Cartera de productos y servicios competitivos",
-      "a2":"Transparencia financiera",
-      "a3":"Toma estratégica de Decisiones basadas en información",
-      "a4":"Optimización de costes de entrega del servicio",
-      "a5":"Optimización de la funcionalidad de los procesos de negocio",
-      "a6":"Optimización de los costes de los procesos de negocio",
-      "a7":"Productividad operacional y de los empleados"
+      "question": "¿Cómo se gestiona el rendimiento de TI?",
+      "a1": "Cartera de productos y servicios competitivos",
+      "a2": "Transparencia financiera",
+      "a3": "Toma estratégica de Decisiones basadas en información",
+      "a4": "Optimización de costes de entrega del servicio",
+      "a5": "Optimización de la funcionalidad de los procesos de negocio",
+      "a6": "Optimización de los costes de los procesos de negocio",
+      "a7": "Productividad operacional y de los empleados"
     }
   ],
   "q3": [
     {
-      "question":"¿Cómo se puede explotar mejor la tecnología de red para conseguir nuevas oportunidades estratégicas?",
-      "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-      "a2":"Cartera de productos y servicios competitivos",
-      "a3":"Respuestas ágiles a un entorno de negocio cambiante",
-      "a4":"Programas gestionados de cambio en el negocio",
-      "a5":"Personas preparadas y motivadas",
-      "a6":"Cultura de innovación del producto y del negocio"
+      "question": "¿Cómo se puede explotar mejor la tecnología de red para conseguir nuevas oportunidades estratégicas?",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Cartera de productos y servicios competitivos",
+      "a3": "Respuestas ágiles a un entorno de negocio cambiante",
+      "a4": "Programas gestionados de cambio en el negocio",
+      "a5": "Personas preparadas y motivadas",
+      "a6": "Cultura de innovación del producto y del negocio"
     }
   ],
   "q4": [
     {
-      "question":"¿Cómo puedo construir y estructurar mejor mi departamento de TI?",
-      "a1":"Respuestas ágiles a un entorno de negocio cambiante",
-      "a2":"Optimización de costes de entrega del servicio",
-      "a3":"Optimización de la funcionalidad de los procesos de negocio",
-      "a4":"Optimización de los costes de los procesos de negocio",
-      "a5":"Productividad operacional y de los empleados",
-      "a6":"Cumplimiento con las políticas internas",
-      "a7":"Personas preparadas y motivadas"
+      "question": "¿Cómo puedo construir y estructurar mejor mi departamento de TI?",
+      "a1": "Respuestas ágiles a un entorno de negocio cambiante",
+      "a2": "Optimización de costes de entrega del servicio",
+      "a3": "Optimización de la funcionalidad de los procesos de negocio",
+      "a4": "Optimización de los costes de los procesos de negocio",
+      "a5": "Productividad operacional y de los empleados",
+      "a6": "Cumplimiento con las políticas internas",
+      "a7": "Personas preparadas y motivadas"
     }
   ],
   "q5": [
     {
-      "question":"¿Cuánto dependo de mis proveedores externos? ¿Cómo de bien están siendo gestionados los acuerdos de externalización de TI? ¿Cómo puedo verificarlos sobre proveedores externos?",
-      "a1":"Riesgos de negocio gestionados (salvaguarda de activo)",
-      "a2":"Cumplimiento de leyes y regulaciones externas",
-      "a3":"Optimización de costes de entrega del servicio"
+      "question": "¿Cuánto dependo de mis proveedores externos? ¿Cómo de bien están siendo gestionados los acuerdos de externalización de TI? ¿Cómo puedo verificarlos sobre proveedores externos?",
+      "a1": "Riesgos de negocio gestionados (salvaguarda de activo)",
+      "a2": "Cumplimiento de leyes y regulaciones externas",
+      "a3": "Optimización de costes de entrega del servicio"
     }
   ],
   "q6": [
     {
-      "question":"¿Cuáles son los requisitos (de control) para la información?",
-      "a1":"Cumplimiento de leyes y regulaciones externas",
-      "a2":"Toma estratégica de Decisiones basadas en información",
-      "a3":"Cumplimiento con las políticas internas"
+      "question": "¿Cuáles son los requisitos (de control) para la información?",
+      "a1": "Cumplimiento de leyes y regulaciones externas",
+      "a2": "Toma estratégica de Decisiones basadas en información",
+      "a3": "Cumplimiento con las políticas internas"
     }
   ],
   "q7": [
     {
-      "question":"¿He contemplado todo los riesgos relacionados con TI?",
-      "a1":"Riesgos de negocio gestionados (salvaguarda de activo)",
-      "a2":"Continuidad y disponibilidad del servicio de negocio",
-      "a3":"Toma estratégica de Decisiones basadas en información",
-      "a4":"Cumplimiento con las políticas internas"
+      "question": "¿He contemplado todo los riesgos relacionados con TI?",
+      "a1": "Riesgos de negocio gestionados (salvaguarda de activo)",
+      "a2": "Continuidad y disponibilidad del servicio de negocio",
+      "a3": "Toma estratégica de Decisiones basadas en información",
+      "a4": "Cumplimiento con las políticas internas"
     }
   ],
   "q8": [
     {
-      "question":"¿Estoy ejecutando una operación de TI eficiente y robusta?",
-      "a1":"Transparencia financiera",
-      "a2":"Continuidad y disponibilidad del servicio de negocio"
+      "question": "¿Estoy ejecutando una operación de TI eficiente y robusta?",
+      "a1": "Transparencia financiera",
+      "a2": "Continuidad y disponibilidad del servicio de negocio"
     }
   ],
   "q9": [
     {
-      "question":"¿Cómo se controla el coste de TI? ¿Cómo se usan los recursos de TI en la manera más efectiva y eficiente? ¿Cuáles son las opciones de aprovisionamient",
-      "a1":"Optimización de costes de entrega del servicio",
-      "a2":"Optimización de los costes de los procesos de negocio",
-      "a3":"Productividad operacional y de los empleados"
+      "question": "¿Cómo se controla el coste de TI? ¿Cómo se usan los recursos de TI en la manera más efectiva y eficiente? ¿Cuáles son las opciones de aprovisionamient",
+      "a1": "Optimización de costes de entrega del servicio",
+      "a2": "Optimización de los costes de los procesos de negocio",
+      "a3": "Productividad operacional y de los empleados"
     }
   ],
   "q10": [
     {
-      "question":"¿Tengo suficiente personal para TI? ¿Cómo puedo desarrollar y mantener sus habilidades y cómo gestiono su rendimiento?",
-      "a1":"Optimización de costes de entrega del servicio",
-      "a2":"Optimización de los costes de los procesos de negocio",
-      "a3":"Productividad operacional y de los empleados"
+      "question": "¿Tengo suficiente personal para TI? ¿Cómo puedo desarrollar y mantener sus habilidades y cómo gestiono su rendimiento?",
+      "a1": "Optimización de costes de entrega del servicio",
+      "a2": "Optimización de los costes de los procesos de negocio",
+      "a3": "Productividad operacional y de los empleados"
     }
   ],
   "q11": [
     {
-      "question":"¿Cómo consigo confianza sobre TI?",
-      "a1":"Cumplimiento de leyes y regulaciones externas",
-      "a2":"Cumplimiento con las políticas internas"
+      "question": "¿Cómo consigo confianza sobre TI?",
+      "a1": "Cumplimiento de leyes y regulaciones externas",
+      "a2": "Cumplimiento con las políticas internas"
     }
   ],
   "q12": [
     {
-      "question":"¿Está bien securizada la información que se está procesando?",
-      "a1":"Cumplimiento de leyes y regulaciones externas",
-      "a2":"Continuidad y disponibilidad del servicio de negocio",
-      "a3":"Cumplimiento con las políticas internas"
+      "question": "¿Está bien securizada la información que se está procesando?",
+      "a1": "Cumplimiento de leyes y regulaciones externas",
+      "a2": "Continuidad y disponibilidad del servicio de negocio",
+      "a3": "Cumplimiento con las políticas internas"
     }
   ],
   "q13": [
     {
-      "question":"¿Cómo se puede mejorar la capacidad de respuesta del negocio mediante un entorno de IT más flexible?",
-      "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-      "a2":"Respuestas ágiles a un entorno de negocio cambiante",
-      "a3":"Personas preparadas y motivadas",
-      "a4":"Cultura de innovación del producto y del negocio"
+      "question": "¿Cómo se puede mejorar la capacidad de respuesta del negocio mediante un entorno de IT más flexible?",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Respuestas ágiles a un entorno de negocio cambiante",
+      "a3": "Personas preparadas y motivadas",
+      "a4": "Cultura de innovación del producto y del negocio"
     }
   ],
   "q14": [
     {
-      "question":"¿Fracasan los proyectos de TI en proporcionar lo que habían prometido? Si es así, ¿por qué permanece la TI en el camino de ejecutar la estrategia de negocio",
-      "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-      "a2":"Cartera de productos y servicios competitivos",
-      "a3":"Riesgos de negocio gestionados (salvaguarda de activo)",
-      "a4":"Respuestas ágiles a un entorno de negocio cambiante",
-      "a5":"Optimización de la funcionalidad de los procesos de negocio",
-      "a6":"Optimización de los costes de los procesos de negocio",
-      "a7":"Programas gestionados de cambio en el negocio"
+      "question": "¿Fracasan los proyectos de TI en proporcionar lo que habían prometido? Si es así, ¿por qué permanece la TI en el camino de ejecutar la estrategia de negocio",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Cartera de productos y servicios competitivos",
+      "a3": "Riesgos de negocio gestionados (salvaguarda de activo)",
+      "a4": "Respuestas ágiles a un entorno de negocio cambiante",
+      "a5": "Optimización de la funcionalidad de los procesos de negocio",
+      "a6": "Optimización de los costes de los procesos de negocio",
+      "a7": "Programas gestionados de cambio en el negocio"
     }
   ],
   "q15": [
     {
-      "question":"¿Cómo es de crítica la TI para para la sostenibilidad de la empresa? ¿Qué pasaría si la TI no estuviera disponible?",
-      "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-      "a2":"Cartera de productos y servicios competitivos",
-      "a3":"Continuidad y disponibilidad del servicio de negocio"
+      "question": "¿Cómo es de crítica la TI para para la sostenibilidad de la empresa? ¿Qué pasaría si la TI no estuviera disponible?",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Cartera de productos y servicios competitivos",
+      "a3": "Continuidad y disponibilidad del servicio de negocio"
     }
   ],
   "q16": [
     {
-      "question":"¿Qué procesos de negocio críticos dependen de TI y cuáles son los requerimientos de los procesos de negocio?",
-      "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-      "a2":"Cartera de productos y servicios competitivos",
-      "a3":"Optimización de la funcionalidad de los procesos de negocio",
-      "a4":"Optimización de los costes de los procesos de negocio"
+      "question": "¿Qué procesos de negocio críticos dependen de TI y cuáles son los requerimientos de los procesos de negocio?",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Cartera de productos y servicios competitivos",
+      "a3": "Optimización de la funcionalidad de los procesos de negocio",
+      "a4": "Optimización de los costes de los procesos de negocio"
     }
   ],
   "q17": [
     {
-      "question":"¿En cuánto han excedido de media los presupuestos de operación de TI? ¿Con qué frecuencia y cuánto se salen del presupuesto los proyectos de TI?",
-      "a1":"Transparencia financiera",
-      "a2":"Optimización de costes de entrega del servicio",
-      "a3":"Optimización de los costes de los procesos de negocio",
-      "a4":"Productividad operacional y de los empleados"
+      "question": "¿En cuánto han excedido de media los presupuestos de operación de TI? ¿Con qué frecuencia y cuánto se salen del presupuesto los proyectos de TI?",
+      "a1": "Transparencia financiera",
+      "a2": "Optimización de costes de entrega del servicio",
+      "a3": "Optimización de los costes de los procesos de negocio",
+      "a4": "Productividad operacional y de los empleados"
     }
   ],
   "q18": [
     {
-      "question":"¿Qué parte del esfuerzo de TI se dedica a apagar fuegos en lugar de facilitar las mejoras del negocio?",
-      "a1":"Cartera de productos y servicios competitivos",
-      "a2":"Riesgos de negocio gestionados (salvaguarda de activo)",
-      "a3":"Optimización de los costes de los procesos de negocio"
+      "question": "¿Qué parte del esfuerzo de TI se dedica a apagar fuegos en lugar de facilitar las mejoras del negocio?",
+      "a1": "Cartera de productos y servicios competitivos",
+      "a2": "Riesgos de negocio gestionados (salvaguarda de activo)",
+      "a3": "Optimización de los costes de los procesos de negocio"
     }
   ],
   "q19": [
     {
-      "question":"¿Son suficientes los recursos y la infraestructura de TI disponibles para conseguir los objetivos estratégicos de empresa requeridos?",
-      "a1":"Cartera de productos y servicios competitivos",
-      "a2":"Transparencia financiera",
-      "a3":"Optimización de costes de entrega del servicio",
-      "a4":"Optimización de los costes de los procesos de negocio"
+      "question": "¿Son suficientes los recursos y la infraestructura de TI disponibles para conseguir los objetivos estratégicos de empresa requeridos?",
+      "a1": "Cartera de productos y servicios competitivos",
+      "a2": "Transparencia financiera",
+      "a3": "Optimización de costes de entrega del servicio",
+      "a4": "Optimización de los costes de los procesos de negocio"
     }
   ],
   "q20": [
     {
-      "question":"¿Cuánto se tarda en la toma de decisiones importantes de TI?",
-      "a1":"Valor para las partes interesadas de las Inversiones de Negocio",
-      "a2":"Cartera de productos y servicios competitivos",
-      "a3":"Transparencia financiera",
-      "a4":"Respuestas ágiles a un entorno de negocio cambiante"
+      "question": "¿Cuánto se tarda en la toma de decisiones importantes de TI?",
+      "a1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "a2": "Cartera de productos y servicios competitivos",
+      "a3": "Transparencia financiera",
+      "a4": "Respuestas ágiles a un entorno de negocio cambiante"
     }
   ],
   "q21": [
     {
-      "question":"¿Son transparentes el esfuerzo y las inversiones totales en TI?",
-      "a1":"Cartera de productos y servicios competitivos",
-      "a2":"Cumplimiento de leyes y regulaciones externas",
-      "a3":"Transparencia financiera",
-      "a4":"Cumplimiento con las políticas internas"
+      "question": "¿Son transparentes el esfuerzo y las inversiones totales en TI?",
+      "a1": "Cartera de productos y servicios competitivos",
+      "a2": "Cumplimiento de leyes y regulaciones externas",
+      "a3": "Transparencia financiera",
+      "a4": "Cumplimiento con las políticas internas"
     }
   ],
   "q22": [
     {
-      "question":"¿Respalda TI a la empresa en el cumplimiento de la normativa y los niveles de servicio? ¿Cómo puedo saber si se cumple con todas las normas aplicables?",
-      "a1":"Cumplimiento de leyes y regulaciones externas",
-      "a2":"Cumplimiento con las políticas internas"
+      "question": "¿Respalda TI a la empresa en el cumplimiento de la normativa y los niveles de servicio? ¿Cómo puedo saber si se cumple con todas las normas aplicables?",
+      "a1": "Cumplimiento de leyes y regulaciones externas",
+      "a2": "Cumplimiento con las políticas internas"
+    }
+  ],
+  "preguntas": [
+  {
+    "question1": "¿Cómo se consigue valor mediante el uso de TI? ¿ Está el usuario final satisfecho con la calidad del servicio de TI?",
+    "question2": "¿Cómo se gestiona el rendimiento de TI?",
+    "question3": "¿Cómo se puede explotar mejor la tecnología de red para conseguir nuevas oportunidades estratégicas?",
+    "question4": "¿Cómo puedo construir y estructurar mejor mi departamento de TI?",
+    "question5": "¿Cuánto dependo de mis proveedores externos? ¿Cómo de bien están siendo gestionados los acuerdos de externalización de TI? ¿Cómo puedo verificarlos sobre proveedores externos?",
+    "question6": "¿Cuáles son los requisitos (de control) para la información?",
+    "question7": "¿He contemplado todo los riesgos relacionados con TI?",
+    "question8": "¿Estoy ejecutando una operación de TI eficiente y robusta?",
+    "question9": "¿Cómo se controla el coste de TI? ¿Cómo se usan los recursos de TI en la manera más efectiva y eficiente? ¿Cuáles son las opciones de aprovisionamient",
+    "question10": "¿Tengo suficiente personal para TI? ¿Cómo puedo desarrollar y mantener sus habilidades y cómo gestiono su rendimiento?",
+    "question11": "¿Cómo consigo confianza sobre TI?",
+    "question12": "¿Está bien securizada la información que se está procesando?",
+    "question13": "¿Cómo se puede mejorar la capacidad de respuesta del negocio mediante un entorno de IT más flexible?",
+    "question14": "¿Fracasan los proyectos de TI en proporcionar lo que habían prometido? Si es así, ¿por qué permanece la TI en el camino de ejecutar la estrategia de negocio",
+    "question15": "¿Cómo es de crítica la TI para para la sostenibilidad de la empresa? ¿Qué pasaría si la TI no estuviera disponible?",
+    "question16": "¿Qué procesos de negocio críticos dependen de TI y cuáles son los requerimientos de los procesos de negocio?",
+    "question17": "¿En cuánto han excedido de media los presupuestos de operación de TI? ¿Con qué frecuencia y cuánto se salen del presupuesto los proyectos de TI?",
+    "question18": "¿Qué parte del esfuerzo de TI se dedica a apagar fuegos en lugar de facilitar las mejoras del negocio?",
+    "question19": "¿Son suficientes los recursos y la infraestructura de TI disponibles para conseguir los objetivos estratégicos de empresa requeridos?",
+    "question20": "¿Cuánto se tarda en la toma de decisiones importantes de TI?",
+    "question21": "¿Son transparentes el esfuerzo y las inversiones totales en TI?",
+    "question22": "¿Respalda TI a la empresa en el cumplimiento de la normativa y los niveles de servicio? ¿Cómo puedo saber si se cumple con todas las normas aplicables?"
+  }
+],
+  "coorporativas": [
+    {
+      "question1": "Valor para las partes interesadas de las Inversiones de Negocio",
+      "question2": "Cartera de productos y servicios competitivos",
+      "question3": "Riesgos de negocio gestionados (salvaguarda de activos)",
+      "question4": "Cumplimiento de leyes y regulaciones externas",
+      "question5": "Transparencia financiera",
+      "question6": "Cultura de servicio orientada al cliente",
+      "question7": "Continuidad y disponibilidad del servicio de negocio",
+      "question8": "Respuestas ágiles a un entorno de negocio cambiante",
+      "question9": "Toma estratégica de Decisiones basada en Información",
+      "question10": "Optimización de costes de entrega del servicio",
+      "question11": "Optimización de la funcionalidad de los procesos de negocio",
+      "question12": "Optimización de los costes de los procesos de negocio",
+      "question13": "Programas gestionados de cambio en el negocio",
+      "question14": "Productividad operacional y de los empleados",
+      "question15": "Cumplimiento con las políticas internas",
+      "question16": "Personas preparadas y motivadas",
+      "question17": "Cultura de innovación de producto y negocio"
+    }
+  ],
+  "ti":[
+    {
+      "question1": "Alineamiento de TI y la estrategia de negocio",
+      "question2": "Cumplimiento y soporte de la TI al cumplimiento del negocio de las leyes y regulaciones externas",
+      "question3": "Compromiso de la dirección ejecutiva para tomar decisiones relacionadas con TI",
+      "question4": "Riesgos de negocio relacionados con las TI gestionados",
+      "question5": "Realización de beneficios del portafolio de Inversiones y servicios relacionados con las TI",
+      "question6": "Transparencia de los costes, beneficios y riesgos de las TI",
+      "question7": "Entrega de servicios de TI de acuerdo a los requisitos del negocio",
+      "question8": "Uso adecuado de aplicaciones, información y soluciones tecnológicas",
+      "question9": "Agilidad de las TI",
+      "question10": "Seguridad de la información, infraestructura de procesamiento y aplicaciones",
+      "question11": "Optimización de activos, recursos y capacidades de las TI",
+      "question12": "Capacitación y soporte de procesos de negocio integrando aplicaciones y tecnología en procesos de negocio",
+      "question13": "Entrega de Programas que proporcionen beneficios a tiempo, dentro del presupuesto y satisfaciendo los requisitos y normas de calidad.",
+      "question14": "Disponibilidad de información útil y relevante para la toma de decisiones",
+      "question15": "Cumplimiento de las políticas internas por parte de las TI",
+      "question16": "Personal del negocio y de las TI competente y motivado",
+      "question17": "Conocimiento, experiencia e iniciativas para la innovación de negocio"
     }
   ]
 }
